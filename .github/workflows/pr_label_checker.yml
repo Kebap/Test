@@ -1,3 +1,4 @@
+name: Is documentation done?
 
 on:
   pull_request:
